@@ -84,7 +84,6 @@
 | `05` | 这才是网络安全 |
 | `06` | 这才是 Python |
 | `07` | Rust：灰烬之战 |
-| `08` | 详解计算机科学丛书 |
 
 ### 代码规范
 
@@ -187,7 +186,6 @@ This project uses a concise commit message format: `status language-tutorial-sec
 | `05` | This Is Cybersecurity |
 | `06` | This Is Python |
 | `07` | Rust: The Ash War |
-| `08` | The Computer Science Canon Explained |
 
 ### Code Style
 

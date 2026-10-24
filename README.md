@@ -57,7 +57,6 @@
 | 05 | **这才是网络安全 (全六季)** | :construction: 编写中 | [开始阅读](<./中文 (Chinese)/05. 这才是网络安全 (全六季)/0. 这才是网络安全·第零季：火种/0. 这才是网络安全·第零季：火种.md>) |
 | 06 | `[中阶]` **这才是 Python** | :pencil: 等待中 | [开始阅读](<./中文 (Chinese)/06. [中阶] 这才是 Python/README.md>) |
 | 07 | `[进阶]` **最终章 - Rust：灰烬之战** | :white_check_mark: 已完成 | [开始阅读](<./中文 (Chinese)/07. [进阶] 最终章 - Rust：灰烬之战/07. [进阶] 最终章 - Rust：灰烬之战.md>) |
-| 08 | `[进阶]` **详解计算机科学丛书** | :construction: 长期更新 | [开始阅读](<./中文 (Chinese)/08. [进阶] 详解计算机科学丛书/README.md>) |
 
 > 所有教程采用**中英双语**编写：先用中文写完，再翻译成英文。
 
@@ -110,12 +109,6 @@
    - 所有权不再是晦涩的内存模型，而是“情报原件只有一份，读完必须销毁”。生命周期不再是编译器报错，而是“牛奶的保质期”。
    - **学完这一课，你将解锁：** 一门高性能系统语言的完整实战能力，以及一段你永远忘不了的战争记忆。
 
-8. `[进阶]` **详解计算机科学丛书** - 追随计算机科学的初心，用“大块头”体会编程之道
-   - 如果你觉得看完了上面的教程，感觉自己“啥都会了但又啥都不会”，说明你缺了**内功**。
-   - 这是一份读书笔记/伴读指南。针对那些经典的“黑皮书”（如《计算机网络》、《深入理解计算机系统》）。
-   - 我不会帮你读书，但我告诉你**哪些章节是面试必考的、哪些算法是写Exploit必用的、哪些理论可以跳过。**
-   - **学完这一课，你将解锁：** 一颗计算机科学的大脑。从此以后，任何新的漏洞和框架在你眼里，都不过是基础原理的排列组合。
-
 ---
 
 #### 怎么学？<!-- omit in toc -->
@@ -146,11 +139,6 @@
 
 7. **当需要编写自己的扫描器、利用脚本或高性能工具时，请出神兵 `07. Rust：灰烬之战`**  
    这不是一门普通的编程语言课。这是一场你必须用 Rust 才能活下来的战争。当你在安全学习中需要更快、更底层的工具时，这本叙事驱动的 Rust 实战教程会在故事中教会你一切。
-
-8. **最后，修炼内功：`08. 详解计算机科学丛书`**  
-   如果你觉得看完了上面的教程，感觉自己“啥都会了但又啥都不会”，说明你缺了**内功**。这份伴读指南会告诉你，那些经典的“黑皮书”里，哪些是必读的、哪些可以跳过。
-
----
 
 接下来的 `05. 这才是网络安全 (全六季)` 就可以按照顺序深入学习了。
 
@@ -230,7 +218,6 @@ I am **TheSilentOne-creator** (The Silent One), a member of the Night Keepers. I
 | 05 | **This Is Cybersecurity (6 Seasons)** | :pencil: Planned | Coming soon |
 | 06 | `[Intermediate]` **This Is Python** | :construction: Writing | Coming soon |
 | 07 | `[Advanced]` **Rust: The Ash War** | :pencil: Translating | Coming soon |
-| 08 | `[Advanced]` **The Computer Science Canon Explained** | :pencil: Translating | Coming soon |
 
 > *All tutorials are bilingual: first written in Chinese, then translated into English.*
 
@@ -283,12 +270,6 @@ I am **TheSilentOne-creator** (The Silent One), a member of the Night Keepers. I
     - Ownership is no longer a complex memory model, but "Only one copy of the intel exists. Whoever takes it, reads it once, and destroys it." Lifetimes are no longer compiler errors, but "the expiration date on a carton of milk."
     - **What you'll unlock:** Complete hands-on capability in a high-performance systems language, and a war story you'll never forget.
 
-8. `[Advanced]` **The Computer Science Canon Explained** -- Return to the heart of computer science. Grasp the Tao of programming through these mighty tomes.
-    - If you finish the tutorials above and feel like you "know everything and nothing at all," it means you're lacking **inner strength**.
-    - This is a reading guide/companion. It's targeted at those classic "black books" (like *Computer Networking*, *Computer Systems: A Programmer's Perspective*).
-    - I won't read the book for you, but I will tell you **which chapters are must-knows for interviews, which algorithms are essential for writing exploits, and which theories you can skip.**
-    - **What you'll unlock:** A computer science brain. From then on, any new vulnerability or framework will just look like permutations and combinations of fundamental principles.
-
 ---
 
 #### How to learn?<!-- omit in toc -->
@@ -319,9 +300,6 @@ To keep the foundational tools (`01`–`04`) from feeling boring and to get you 
 
 7. **When you need to write your own scanners, exploits, or high-performance tools, unsheathe `07. Rust: The Ash War`**  
    This is not an ordinary programming language course. This is a war you must survive by writing Rust. When your security work demands faster, lower-level tools, this narrative-driven Rust tutorial will teach you everything through its story.
-
-8. **Finally, cultivate your inner strength: `08. The Computer Science Canon Explained`**  
-   If you finish the tutorials above and feel like you "know everything and nothing at all," it means you're lacking **inner strength**. This reading companion tells you which of the classic "black books" are essential and which can be skimmed.
 
 After that, you can follow the rest of `05. This Is Cybersecurity (6 Seasons)` in order.
 
